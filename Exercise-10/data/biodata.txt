@@ -1,0 +1,7 @@
+Nama: Saipul
+Umur: 19
+Alamat: Jl. LawuUwu No. 10
+
+Nama: Jamil
+Umur: 20
+Alamat: Purwodadi
